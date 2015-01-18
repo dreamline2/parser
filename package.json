@@ -1,0 +1,23 @@
+{
+  "name": "parser",
+  "version": "1.0.0",
+  "description": "使用 nodejs 練習爬網站並存到 monogdb",
+  "main": "aces_thenewslens.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dreamline2/parser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dreamline2/parser/issues"
+  },
+  "homepage": "https://github.com/dreamline2/parser",
+  "devDependencies": {
+    "cheerio": "^0.18.0",
+    "request": "^2.51.0"
+  }
+}
